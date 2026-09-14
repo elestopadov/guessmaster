@@ -1,5 +1,7 @@
 # GuessMaster
 **Authors:** Evginiy Lestopadov, Andrey Manturov
+---
+
 GuessMaster is a simple Java console game.
 
 The player chooses **Start Game** and tries to guess a secret number. The number is generated randomly inside a small range. The player has a limited number of attempts.
